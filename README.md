@@ -1,141 +1,95 @@
-# Tutor DevLee
+# OOP & Algorithm Tutoring
+
+## 1. Introduction
+
+Welcome!  
+I am a private tutor specializing in **Object-Oriented Programming (OOP)** and **Algorithm problem solving**.  
+My goal is to help students learn programming in a **clear, simple, and practical** way.  
+If you are a beginner or preparing for coding interviews, this course will guide you step by step.  
+
+### What to Expect:
+- Easy-to-understand explanations for difficult concepts.
+- Step-by-step coding practices and examples.
+- Real interview-style problems (LeetCode Blind 75).
+- Friendly and supportive learning environment.
 
 ---
 
-# Python + LeetCode **12-Week Curriculum**
+## 2. Repository Structure
+
+You can find all learning materials in the following folders:
+
+- [OOP-C++](./OOP-C++) : Object-Oriented Programming in C++.
+- [Algo](./Algo) : Python algorithms and Blind 75 practice problems.
+- [README.md](./README.md) : Main introduction and curriculum.
 
 ---
 
-## **Course Objective**
+## 3. Curriculum Overview
 
-This is a **beginner-level algorithm course** designed to help students build a strong foundation in basic algorithms and problem-solving skills. Over **12 weeks**, we will focus on practicing essential algorithm problems from **LeetCode**, using **Python** as our programming language.  
-The goal of this course is to help students become familiar with Python, improve their coding skills, and prepare for coding interviews and technical assessments.  
-By the end of the course, students will have practiced key algorithm patterns and learned strategies to approach coding test problems confidently.  
+### 3.1 Object-Oriented Programming (OOP) & C++ Basics
 
----
-
-## Week 1: Python Basics & Arrays (Beginner)
-- **Topics**  
-  - Python fundamentals (Variables, Data Types, Lists, Loops, Conditionals)
-- **Example Problems**  
-  - **Two Sum**  
-  - **Best Time to Buy and Sell Stock**
-
----
-
-## Week 2: Advanced Lists / Dictionaries (HashMap) & Basic String Manipulation
-- **Topics**  
-  - List methods, basic usage of Dictionary (HashMap)  
-  - String manipulation (`split`, `join`, slicing, etc.)
-- **Example Problems**  
-  - **Contains Duplicate**  
-  - **Valid Anagram**  
-  - (If time allows) **Valid Palindrome**
-
----
-
-## Week 3: Two Pointers & Sliding Window
-- **Topics**  
-  - Basics of Two Pointers (using start/end indices)  
-  - Sliding Window (expanding and shrinking intervals)
-- **Example Problems**  
-  - **Longest Substring Without Repeating Characters**  
-  - **3Sum**  
-  - (If time allows) **Maximum Subarray**
+1. **Introduction to OOP Concepts**
+   - What is OOP?
+   - Real-life examples of objects and classes.
+2. **Encapsulation**
+   - Protecting data in a class.
+   - Access modifiers: private, public.
+3. **Inheritance**
+   - Reusing and extending code.
+   - Base and derived classes.
+4. **Polymorphism**
+   - Function overriding and dynamic behavior.
+   - Virtual functions.
+5. **Modularity**
+   - Organizing code into modules and classes.
+6. **C++ Basics for OOP**
+   - Variables, functions, types, templates.
+   - Namespaces for preventing conflicts.
+7. **Memory Management**
+   - Static vs dynamic memory allocation.
+   - Memory structure: stack, heap, data, code segments.
 
 ---
 
-## Week 4: Stack & Queue Basics
-- **Topics**  
-  - Concepts of Stack (LIFO) and Queue (FIFO)  
-  - Using Python lists / `collections.deque`
-- **Example Problems**  
-  - **Valid Parentheses**  
-  - **Min Stack**  
-  - (If time allows) **Implement Queue using Stacks**, etc.
+### 3.2 Python & Algorithm (Blind 75) - 12 Weeks Course
+
+> Weekly Class: Every Wednesday, 10:00 AM - 12:00 PM (2 hours)
+
+#### Week-by-Week Curriculum
+
+1. **Week 1: Python Basics & Arrays (Beginner)**
+   - Problems: Two Sum, Best Time to Buy and Sell Stock.
+2. **Week 2: Lists, Dictionaries, Strings**
+   - Problems: Contains Duplicate, Valid Anagram, Valid Palindrome.
+3. **Week 3: Two Pointers & Sliding Window**
+   - Problems: Longest Substring Without Repeating Characters, 3Sum, Maximum Subarray.
+4. **Week 4: Stack & Queue Basics**
+   - Problems: Valid Parentheses, Min Stack, Implement Queue using Stacks.
+5. **Week 5: Advanced HashMap**
+   - Problems: Group Anagrams, Top K Frequent Elements, Valid Sudoku.
+6. **[Week 6: Sorting & Binary Search](./Algo/Week06-Sorting&BinarySearch)**
+   - Problems: Binary Search, Search in Rotated Sorted Array, Find Minimum in Rotated Sorted Array.
+7. **Week 7: Graph Basics (BFS/DFS)**
+   - Problems: Number of Islands, Flood Fill, Clone Graph, Max Area of Island.
+8. **Week 8: Binary Tree & Traversal**
+   - Problems: Invert Binary Tree, Maximum Depth of Binary Tree, Same Tree, Binary Tree Level Order Traversal.
+9. **Week 9: Dynamic Programming (DP) Basics**
+   - Problems: Climbing Stairs, House Robber, Maximum Subarray.
+10. **Week 10: Advanced Dynamic Programming (DP)**
+    - Problems: Coin Change, Longest Palindromic Substring, Longest Common Subsequence, Decode Ways.
+11. **Week 11: Greedy & Interval Problems**
+    - Problems: Meeting Rooms, Non-overlapping Intervals, Merge Intervals.
+12. **Week 12: Final Review & Mock Interview**
+    - Review of key problems and practice interview questions.
 
 ---
 
-## Week 5: Advanced HashMap
-- **Topics**  
-  - Inner workings of HashMap (collisions, hash function principles simplified)  
-  - Using `defaultdict`, `Counter`
-- **Example Problems**  
-  - **Group Anagrams**  
-  - **Top K Frequent Elements**  
-  - (If time allows) **Valid Sudoku**, etc.
+## 4. Contact
 
----
+If you are interested in learning with me, please feel free to reach out.  
+Let's make programming easy and enjoyable!
 
-## Week 6: Sorting & Binary Search
-- **Topics**  
-  - Python built-in sorting (`sorted`, `.sort()`)  
-  - Basics of Binary Search (iterative/recursive, `bisect` module)
-- **Example Problems**  
-  - **Binary Search**  
-  - **Search in Rotated Sorted Array**  
-  - (If time allows) **Find Minimum in Rotated Sorted Array**
-
----
-
-## Week 7: Graph & Traversal (BFS/DFS) Basics
-- **Topics**  
-  - Graph representation (adjacency list/matrix)  
-  - BFS (Queue), DFS (Stack/Recursion)
-- **Example Problems**  
-  - **Number of Islands**  
-  - **Flood Fill** / **Clone Graph**  
-  - (If time allows) **Max Area of Island**
-
----
-
-## Week 8: Binary Tree & Traversals
-- **Topics**  
-  - Basic structure of Binary Tree (BT)  
-  - Tree traversals (Inorder, Preorder, Postorder, Level-order)
-- **Example Problems**  
-  - **Invert Binary Tree**  
-  - **Maximum Depth of Binary Tree**  
-  - (If time allows) **Same Tree**, **Binary Tree Level Order Traversal**
-
----
-
-## Week 9: Dynamic Programming (DP) Basics
-- **Topics**  
-  - Fundamental concepts of Dynamic Programming (Top-down vs Bottom-up)  
-  - Simple DP examples (e.g., Fibonacci)
-- **Example Problems**  
-  - **Climbing Stairs**  
-  - **House Robber**  
-  - (If time allows) **Maximum Subarray** (Kadane’s Algorithm)
-
----
-
-## Week 10: Advanced Dynamic Programming (DP)
-- **Topics**  
-  - 1D DP vs 2D DP  
-  - Complex recurrence relations (pathfinding, knapsack, etc.)
-- **Example Problems**  
-  - **Coin Change**  
-  - **Longest Palindromic Substring** or **Longest Common Subsequence**  
-  - (If time allows) **Decode Ways**
-
----
-
-## Week 11: Greedy & Interval Problems
-- **Topics**  
-  - Greedy algorithms (making optimal choices at each step)  
-  - Interval sorting and overlap/merge problems
-- **Example Problems**  
-  - **Meeting Rooms**  
-  - **Non-overlapping Intervals**  
-  - (If time allows) **Merge Intervals**
-
----
-
-## Week 12: Comprehensive Review
-- **Topics**  
-  - Review of key algorithms/data structures
-- **Example Problems**  
-  - Re-solving previously covered problems or 2-3 new review problems  
-  - Revisit problems from weeks that were challenging
+- **Email**: yoori.lee825@gmail.com  
+- **Profile**: (Coming soon)
+- **LinkedIn**: [Yoori Lee](https://www.linkedin.com/in/yoori-lee-a0165229b)
