@@ -70,7 +70,7 @@ You can find all learning materials in the following folders:
    - Problems: Group Anagrams, Top K Frequent Elements, Valid Sudoku.
 6. **[Week 6: Sorting & Binary Search](./Algo/Week06-Sorting&BinarySearch)**
    - Problems: Binary Search, Search in Rotated Sorted Array, Find Minimum in Rotated Sorted Array.
-7. **Week 7: Graph Basics (BFS/DFS)**
+7. **[Week 7: Graph Basics (BFS/DFS)](./Algo/Week07-Recursion%20&%20Backtracking)**
    - Problems: Number of Islands, Flood Fill, Clone Graph, Max Area of Island.
 8. **Week 8: Binary Tree & Traversal**
    - Problems: Invert Binary Tree, Maximum Depth of Binary Tree, Same Tree, Binary Tree Level Order Traversal.
